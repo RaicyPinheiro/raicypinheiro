@@ -1,7 +1,7 @@
 ### Hi, I'm Raicy Pinheiro 👋
 
 
-- 👋 Hi. I'm Raicy. I'm majoring in Software Engineering at PUC Minas. 
+- 👋 Hi. I'm Raicy. I'm majoring in Computer Science at PUC Minas. 
 - ⚡ I am currently honing my skills in backend and data science.
 - 💬 I'm learning, in case you see something wrong, feel free to contact me and help me improve.
 
